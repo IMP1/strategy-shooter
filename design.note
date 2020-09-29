@@ -1,0 +1,14 @@
+# turn-based tactical squad shooter
+
+Using Godot? Or just LOVE.
+
+Using warhammer 40k rules as a baseline
+
+# Turn Structure
+
+ 1. move
+ 2. tech
+ 3. shoot
+ 4. charge
+ 5. melee
+ 6. morale
